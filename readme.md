@@ -1,6 +1,6 @@
-![Homepage screenshot](./src/img/Capa%20VR%20Timer.png)
+![Homepage screenshot](./src/img/VRTimer-Homepage-Screenshot.png)
 
-# VR Timer ([Website link](https://viniroveri.github.io/VrTimer/))
+# VR Timer ([Website link](https://vrtimer.vercel.app/))
 
 
 ## What is this?
