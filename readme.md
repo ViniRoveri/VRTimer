@@ -1,6 +1,6 @@
 ![Homepage screenshot](./src/img/VRTimer-Homepage-Screenshot.png)
 
-# VR Timer ([Website link](https://vrtimer.vercel.app/))
+# **VR Timer** ([Website link](https://vrtimer.vercel.app/))
 
 
 A timer for Rubik's Cube practice using React with TypeScript. The website has a scramble generator, a timer and a storage of times and averages, where the user can access all the information of each stored time. In addition, the site simulates official competition rules, such as a 15-second inspection, and the adding of penalties if necessary.
